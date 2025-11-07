@@ -18,13 +18,14 @@ This project serves as an **inspiring showcase** for developers exploring advanc
 
 ## 🎬 Preview
 
-<div align="center">
-  
-  
   *Transform words into mesmerizing particle art*
-  <video src="https://github.com/user-attachments/assets/your-video-id" controls width="100%" ></video>
-
-    
+<div align="left">
+  <table>
+    <tr>
+      <td> <video src="https://github.com/user-attachments/assets/989c2162-179a-4130-833c-ce12c7ecaad5" controls width="49%"></video></td>
+      <td>  <video src="https://github.com/user-attachments/assets/cc55571b-f2b3-4bb5-ad51-71f8f74f2d1c" controls width="49%"></video></td>
+    </tr>
+  </table>
 </div>
 
 
