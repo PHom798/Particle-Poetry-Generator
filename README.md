@@ -57,7 +57,6 @@ This project serves as an **inspiring showcase** for developers exploring advanc
 <div align="left">
   <table>
     <tr>
-      <td><img src="screenshots/image1.jpg" alt="Particle Art Example 1" width="250"/></td>
       <td><img src="screenshots/image2.jpg" alt="Particle Art Example 2" width="250"/></td>
       <td><img src="screenshots/image3.jpg" alt="Particle Art Example 3" width="250"/></td>
       <td><img src="screenshots/image4.jpg" alt="Particle Art Example 4" width="250"/></td>
